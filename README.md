@@ -3,8 +3,7 @@
 Differential-drive autonomous mobile robot built on ROS 2 Humble with a Raspberry Pi and an ESP32 linked over
 micro-ROS (Wi-Fi). It maps its surroundings with SLAM Toolbox using an RPLIDAR A1 and navigates autonomously with Nav2.
 
-Built from scratch by the Robotics Society, IIT Jodhpur (core team 2026–27) as Inter-IIT preparation:
-work started on 23 Sep 2026, the robot mapped with SLAM on 26 Sep and navigated autonomously on 28 Sep.
+Built by the Robotics Society, IIT Jodhpur (core team 2026–27)
 
 ![The AMR](final-product/docs/images/amr-robot.jpg)
 
